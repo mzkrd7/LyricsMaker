@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lang">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Kurdish</item>
+    </string-array>
+    
+    <string-array name="picking">
+        <item>Pick manually</item>
+        <item>Pick from list</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">عنوان</string>
+    <string name="artist">فنان</string>
+    <string name="lrcHere">كلمات الأغنية ستكون هنا!</string>
+    <string name="select">أختار</string>
+    <string name="save">حفظ</string>
+    <string name="settings">إعدادات</string>
+    <string name="info">معلومات</string>
+    <string name="Language">لغة التطبيق:</string>
+    <string name="setTransports">تعيين وقت أزرار التقديم/الإرجاع</string>
+    <string name="pick">کیفیة اختيار الموسيقى</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lang">
+        <item>إنجليزي</item>
+        <item>عربي</item>
+        <item>كردي</item>
+    </string-array>
+   
+       <string-array name="picking">
+        <item>إختر يدويا</item>
+        <item>اختر من القائمة</item>
+    </string-array>
+</resources>

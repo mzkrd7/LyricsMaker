@@ -1,0 +1,3 @@
+/storage/emulated/0/.sketchware/mysc/606/app/src/main/res/layout/mmenu.xml:38: error: resource drawable/fade_top (aka vap4s.lyrics.sync:drawable/fade_top) not found.
+/storage/emulated/0/.sketchware/mysc/606/app/src/main/res/layout/mmenu.xml:45: error: resource drawable/fade_bottom (aka vap4s.lyrics.sync:drawable/fade_bottom) not found.
+error: failed linking file resources.
