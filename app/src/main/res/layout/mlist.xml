@@ -1,0 +1,45 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#212121"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/search_linear"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal">
+			<EditText
+				android:id="@+id/edittext1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:padding="8dp"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:hint="Search"
+				android:textColorHint="#607D8B"
+				android:layout_weight="1" />
+			<ImageView
+				android:id="@+id/imageview1"
+				android:layout_width="30dp"
+				android:layout_height="30dp"
+				android:src="@drawable/icon_search_round"
+				android:scaleType="fitCenter" />
+		</LinearLayout>
+		<ListView
+			android:id="@+id/listview1"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:padding="8dp"
+			android:choiceMode="none"
+			android:layout_weight="1"
+			tools:listitem="@layout/list" />
+	</LinearLayout>
+</LinearLayout>
